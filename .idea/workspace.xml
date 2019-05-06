@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85cb9b16-dbd2-4d00-943c-457211d0f54f" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch02/EXTRAS/README.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch02_knn/EXTRAS/README.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch02/EXTRAS/createDist.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch02_knn/EXTRAS/createDist.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch02/EXTRAS/createDist2.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch02_knn/EXTRAS/createDist2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch02/EXTRAS/createFirstPlot.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch02_knn/EXTRAS/createFirstPlot.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch02/EXTRAS/testSet.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch02_knn/EXTRAS/testSet.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch02/README.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch02_knn/README.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch02/datingTestSet.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch02_knn/datingTestSet.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch02/datingTestSet2.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch02_knn/datingTestSet2.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch02/digits.zip" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch02_knn/digits.zip" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch02/kNN.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch02_knn/kNN.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch03/classifierStorage.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch03_tree/classifierStorage.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch03/lenses.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch03_tree/lenses.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch03/treePlotter.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch03_tree/treePlotter.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch03/trees.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch03_tree/trees.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch04/EXTRAS/README.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch04_bayes/EXTRAS/README.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch04/EXTRAS/create2Normal.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch04_bayes/EXTRAS/create2Normal.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch04/EXTRAS/monoDemo.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch04_bayes/EXTRAS/monoDemo.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch04/bayes.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch04_bayes/bayes.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch04/email.zip" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch04_bayes/email.zip" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch05/EXTRAS/README.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch05_logicRegres/EXTRAS/README.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch05/EXTRAS/plot2D.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch05_logicRegres/EXTRAS/plot2D.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch05/EXTRAS/plotGD.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch05_logicRegres/EXTRAS/plotGD.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch05/EXTRAS/plotSDerror.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch05_logicRegres/EXTRAS/plotSDerror.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch05/EXTRAS/sigmoidPlot.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch05_logicRegres/EXTRAS/sigmoidPlot.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch05/horseColicTest.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch05_logicRegres/horseColicTest.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch05/horseColicTraining.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch05_logicRegres/horseColicTraining.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch05/logRegres.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch05_logicRegres/logRegres.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch05/testSet.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch05_logicRegres/testSet.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch06/EXTRAS/notLinSeperable.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch06_svm/EXTRAS/notLinSeperable.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch06/EXTRAS/plotRBF.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch06_svm/EXTRAS/plotRBF.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch06/EXTRAS/plotSupportVectors.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch06_svm/EXTRAS/plotSupportVectors.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch06/digits.zip" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch06_svm/digits.zip" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch06/svmMLiA.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch06_svm/svmMLiA.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch06/testSet.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch06_svm/testSet.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch06/testSetRBF.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch06_svm/testSetRBF.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch06/testSetRBF2.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch06_svm/testSetRBF2.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch07/EXTRAS/README.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch07_adaboost/EXTRAS/README.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch07/EXTRAS/simpleDataPlot.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch07_adaboost/EXTRAS/simpleDataPlot.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch07/adaboost.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch07_adaboost/adaboost.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch07/horseColicTest2.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch07_adaboost/horseColicTest2.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch07/horseColicTraining2.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch07_adaboost/horseColicTraining2.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch08/abalone.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch08_regression/abalone.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch08/ex0.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch08_regression/ex0.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch08/ex1.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch08_regression/ex1.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch08/regression.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch08_regression/regression.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch08/setHtml/lego10030.html" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch08_regression/setHtml/lego10030.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch08/setHtml/lego10179.html" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch08_regression/setHtml/lego10179.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch08/setHtml/lego10181.html" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch08_regression/setHtml/lego10181.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch08/setHtml/lego10189.html" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch08_regression/setHtml/lego10189.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch08/setHtml/lego10196.html" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch08_regression/setHtml/lego10196.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch08/setHtml/lego8288.html" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch08_regression/setHtml/lego8288.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch09/bikeSpeedVsIq_test.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch09_cartTree/bikeSpeedVsIq_test.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch09/bikeSpeedVsIq_train.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch09_cartTree/bikeSpeedVsIq_train.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch09/ex0.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch09_cartTree/ex0.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch09/ex00.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch09_cartTree/ex00.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch09/ex2.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch09_cartTree/ex2.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch09/ex2test.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch09_cartTree/ex2test.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch09/exp.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch09_cartTree/exp.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch09/exp2.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch09_cartTree/exp2.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch09/expTest.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch09_cartTree/expTest.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch09/regTrees.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch09_cartTree/regTrees.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch09/sine.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch09_cartTree/sine.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch09/treeExplore.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch09_cartTree/treeExplore.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch10/Portland.png" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch10_kmeans/Portland.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch10/kMeans.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch10_kmeans/kMeans.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch10/places.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch10_kmeans/places.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch10/portlandClubs.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch10_kmeans/portlandClubs.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch10/testSet.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch10_kmeans/testSet.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch10/testSet2.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch10_kmeans/testSet2.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch13/extras/createFig1.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch13_pca/extras/createFig1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch13/extras/createFig2.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch13_pca/extras/createFig2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch13/extras/createFig3.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch13_pca/extras/createFig3.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch13/extras/createFig4.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch13_pca/extras/createFig4.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch13/iris.data.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch13_pca/iris.data.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch13/pca.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch13_pca/pca.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch13/secom.data" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch13_pca/secom.data" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch13/testSet.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch13_pca/testSet.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch13/testSet3.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch13_pca/testSet3.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch14/0_5.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch14_svd/0_5.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch14/svdRec.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch14_svd/svdRec.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml/machinelearninginaction" afterPath="$PROJECT_DIR$/ml/machinelearninginaction" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch11/apriori.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch11/apriori.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch11/bills20DataSet.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch11/bills20DataSet.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch11/lawAssnRules.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch11/lawAssnRules.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch11/meaning20.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch11/meaning20.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch11/recent100bills.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch11/recent100bills.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch11/recent20bills.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch11/recent20bills.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch12/fpGrowth.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch12/fpGrowth.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/kickStart.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/kickStart.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/mrMean.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/mrMean.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/mrMeanMapper.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/mrMeanMapper.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/mrMeanReducer.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/mrMeanReducer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/mrSVM.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/mrSVM.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/mrSVMkickStart.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/mrSVMkickStart.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/myout.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/myout.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/pegasos.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/pegasos.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/proximalSVM.py" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/proximalSVM.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/svmDat2.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/svmDat2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/svmDat26" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/svmDat26" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/svmDat27" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/svmDat27" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/svmData.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/svmData.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/testSet.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/testSet.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/testSet200.txt" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/Ch15/testSet200.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ml/machinelearninginaction/README.rst" afterPath="$PROJECT_DIR$/ml/machinelearninginaction/README.rst" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$lstm_pytorch.coverage" NAME="lstm_pytorch Coverage Results" MODIFIED="1556614714516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LSTM" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$song2vec.coverage" NAME="song2vec Coverage Results" MODIFIED="1556114066357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML_Projects/RecommendSystem" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$lesson16.coverage" NAME="lesson16 Coverage Results" MODIFIED="1543995999006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Video-study" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$lesson11Test.coverage" NAME="lesson11Test Coverage Results" MODIFIED="1543568467112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Video-study" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$lesson5.coverage" NAME="lesson5 Coverage Results" MODIFIED="1550114471437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Video-study" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$bayes.coverage" NAME="bayes Coverage Results" MODIFIED="1553674459531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml/book/bayes" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$lesson11.coverage" NAME="lesson11 Coverage Results" MODIFIED="1550115170534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Video-study" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$surprise_svd.coverage" NAME="surprise_svd Coverage Results" MODIFIED="1555856859437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/surprise/test" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$simpleTest1.coverage" NAME="simpleTest1 Coverage Results" MODIFIED="1548836833897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MAIZI-study/NeuralNetwork" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$trees.coverage" NAME="trees Coverage Results" MODIFIED="1553771454432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml/machinelearninginaction/Ch03_tree" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$lesson7.coverage" NAME="lesson7 Coverage Results" MODIFIED="1543499513395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Video-study" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$logRegres.coverage" NAME="logRegres Coverage Results" MODIFIED="1553787368255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml/machinelearninginaction/Ch05_logicRegres" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$recommendSystemWithTensorflow.coverage" NAME="recommendSystemWithTensorflow Coverage Results" MODIFIED="1556113900219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML_Projects/RecommendSystem" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$adaboost.coverage" NAME="adaboost Coverage Results" MODIFIED="1553918034580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml/machinelearninginaction/Ch07_adaboost" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$recommend_svd.coverage" NAME="recommend_svd Coverage Results" MODIFIED="1553499396220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA_SVD" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$digitalReconginize.coverage" NAME="digitalReconginize Coverage Results" MODIFIED="1548773670440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MAIZI-study/NeuralNetwork" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$recommend_common.coverage" NAME="recommend_common Coverage Results" MODIFIED="1553068787626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA_SVD" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$PCAOperator.coverage" NAME="PCAOperator Coverage Results" MODIFIED="1552722097993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$kNN.coverage" NAME="kNN Coverage Results" MODIFIED="1553762130745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml/machinelearninginaction/Ch02_knn" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$lesson6.coverage" NAME="lesson6 Coverage Results" MODIFIED="1550114531421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Video-study" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$main.coverage" NAME="main Coverage Results" MODIFIED="1556531735294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML_Projects/Seq2Seq/full_code" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$assignTest.coverage" NAME="assignTest Coverage Results" MODIFIED="1550113587718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Video-study" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$lesson18.coverage" NAME="lesson18 Coverage Results" MODIFIED="1551676738468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Video-study" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$lesson12.coverage" NAME="lesson12 Coverage Results" MODIFIED="1550115555323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Video-study" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$PCAOperator__1_.coverage" NAME="PCAOperator (1) Coverage Results" MODIFIED="1553073833738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA_SVD" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$SVD_image.coverage" NAME="SVD_image Coverage Results" MODIFIED="1553139233261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA_SVD" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$SVDOperator.coverage" NAME="SVDOperator Coverage Results" MODIFIED="1553075672869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA_SVD" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$lesson17.coverage" NAME="lesson17 Coverage Results" MODIFIED="1550116429109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Video-study" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$lesson14.coverage" NAME="lesson14 Coverage Results" MODIFIED="1543737519202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Video-study" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$lesson8.coverage" NAME="lesson8 Coverage Results" MODIFIED="1550114873279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Video-study" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$test.coverage" NAME="test Coverage Results" MODIFIED="1548906120436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MAIZI-study/NeuralNetwork" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$decisionTree.coverage" NAME="decisionTree Coverage Results" MODIFIED="1546857678067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml/myTest" />
+    <SUITE FILE_PATH="coverage/TensorFlow_Examples$neural_network.coverage" NAME="neural_network Coverage Results" MODIFIED="1536225117030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples/3_NeuralNetworks" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/nmt-seq2seq/pytorch/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="51" column="24" lean-forward="false" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/full_code/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-91">
+              <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lstm_pytorch.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LSTM/lstm_pytorch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-895">
+              <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+              <folding>
+                <element signature="e#24#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>standEst</find>
+      <find>stumpClassify</find>
+      <find>threshIneq</find>
+      <find>model</find>
+      <find>model_file</find>
+      <find>vocab_file</find>
+      <find>criterion</find>
+      <find>interact</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/nmt-seq2seq/pytorch/test.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/nmt-seq2seq/pytorch/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/full_code/main.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Video-study/lesson16.py" />
+        <option value="$PROJECT_DIR$/Video-study/lesson17.py" />
+        <option value="$PROJECT_DIR$/ml/machinelearninginaction/Ch02/kNN.py" />
+        <option value="$PROJECT_DIR$/ml/myTest/decisionTree.py" />
+        <option value="$PROJECT_DIR$/MAIZI-study/NeuralNetwork/digitalReconginize.py" />
+        <option value="$PROJECT_DIR$/MAIZI-study/NeuralNetwork/NeuralNetwork.py" />
+        <option value="$PROJECT_DIR$/MAIZI-study/NeuralNetwork/simpleTest1.py" />
+        <option value="$PROJECT_DIR$/MAIZI-study/NeuralNetwork/test.py" />
+        <option value="$PROJECT_DIR$/Video-study/assignTest.py" />
+        <option value="$PROJECT_DIR$/Video-study/lesson5.py" />
+        <option value="$PROJECT_DIR$/Video-study/lesson7.py" />
+        <option value="$PROJECT_DIR$/Video-study/lesson12.py" />
+        <option value="$PROJECT_DIR$/ml/machinelearninginaction/Ch04/bayes.py" />
+        <option value="$PROJECT_DIR$/Video-study/lesson18.py" />
+        <option value="$PROJECT_DIR$/PCA/PCAOperator.py" />
+        <option value="$PROJECT_DIR$/PCA_SVD/recommend_common.py" />
+        <option value="$PROJECT_DIR$/PCA_SVD/SVDOperator.py" />
+        <option value="$PROJECT_DIR$/PCA_SVD/SVD_image.py" />
+        <option value="$PROJECT_DIR$/PCA_SVD/recommend_svd.py" />
+        <option value="$PROJECT_DIR$/FM/FM/step1.py" />
+        <option value="$PROJECT_DIR$/ml/book/bayes/bayes.py" />
+        <option value="$PROJECT_DIR$/ml/machinelearninginaction/Ch05/logRegres.py" />
+        <option value="$PROJECT_DIR$/ml/machinelearninginaction/Ch09/regTrees.py" />
+        <option value="$PROJECT_DIR$/ml/machinelearninginaction/Ch09/treeExplore.py" />
+        <option value="$PROJECT_DIR$/ml/machinelearninginaction/Ch02_knn/kNN.py" />
+        <option value="$PROJECT_DIR$/ml/machinelearninginaction/Ch03_tree/trees.py" />
+        <option value="$PROJECT_DIR$/ml/machinelearninginaction/Ch11/apriori.py" />
+        <option value="$PROJECT_DIR$/ml/machinelearninginaction/Ch06_svm/svmMLiA.py" />
+        <option value="$PROJECT_DIR$/ml/machinelearninginaction/Ch05_logicRegres/logRegres.py" />
+        <option value="$PROJECT_DIR$/ml/machinelearninginaction/Ch07_adaboost/adaboost.py" />
+        <option value="$PROJECT_DIR$/ml/machinelearninginaction/Ch10_kmeans/kMeans.py" />
+        <option value="$PROJECT_DIR$/surprise/test/surprise_svd.py" />
+        <option value="$PROJECT_DIR$/surprise/01/song2vec.py" />
+        <option value="$PROJECT_DIR$/ML_Projects/RecommendSystem/train_song2vec.py" />
+        <option value="$PROJECT_DIR$/ML_Projects/RecommendSystem/song2vec.py" />
+        <option value="$PROJECT_DIR$/ML_Projects/RecommendSystem/recommendSystemWithTensorflow.py" />
+        <option value="$PROJECT_DIR$/ML_Projects/Seq2Seq/utils.py" />
+        <option value="$PROJECT_DIR$/ML_Projects/Seq2Seq/main.py" />
+        <option value="$PROJECT_DIR$/ML_Projects/Seq2Seq/my_test/utils.py" />
+        <option value="$PROJECT_DIR$/ML_Projects/Seq2Seq/my_test/main.py" />
+        <option value="$PROJECT_DIR$/ML_Projects/Seq2Seq/my_test/config.py" />
+        <option value="$PROJECT_DIR$/ML_Projects/Seq2Seq/my_test/model.py" />
+        <option value="$PROJECT_DIR$/ML_Projects/Seq2Seq/nmt-seq2seq/pytorch/utils.py" />
+        <option value="$PROJECT_DIR$/ML_Projects/Seq2Seq/full_code/run.sh" />
+        <option value="$PROJECT_DIR$/ML_Projects/Seq2Seq/full_code/config.py" />
+        <option value="$PROJECT_DIR$/ML_Projects/Seq2Seq/full_code/main.py" />
+        <option value="$PROJECT_DIR$/ML_Projects/Seq2Seq/full_code/utils.py" />
+        <option value="$PROJECT_DIR$/ML_Projects/Seq2Seq/full_code/models.py" />
+        <option value="$PROJECT_DIR$/ML_Projects/Seq2Seq/nmt-seq2seq/pytorch/run.sh" />
+        <option value="$PROJECT_DIR$/ML_Projects/Seq2Seq/nmt-seq2seq/pytorch/run_test.sh" />
+        <option value="$PROJECT_DIR$/LSTM/lstm_pytorch.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="-1200" />
+    <option name="width" value="1920" />
+    <option name="height" value="1200" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TensorFlow-Examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TensorFlow-Examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TensorFlow-Examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TensorFlow-Examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ML_Projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LSTM/mnist" />
+      <recent name="$PROJECT_DIR$/LSTM" />
+      <recent name="$PROJECT_DIR$/all_data" />
+      <recent name="$PROJECT_DIR$/ML_Projects/Seq2Seq/full_code" />
+      <recent name="$PROJECT_DIR$/ML_Projects/Seq2Seq" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.lstm_pytorch">
+    <configuration default="false" name="surprise_svd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/surprise/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TensorFlow-Examples" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/surprise/test/surprise_svd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="song2vec" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML_Projects/RecommendSystem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TensorFlow-Examples" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML_Projects/RecommendSystem/song2vec.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="recommendSystemWithTensorflow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML_Projects/RecommendSystem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TensorFlow-Examples" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML_Projects/RecommendSystem/recommendSystemWithTensorflow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML_Projects/Seq2Seq/full_code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TensorFlow-Examples" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML_Projects/Seq2Seq/full_code/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="lstm_pytorch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LSTM" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TensorFlow-Examples" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LSTM/lstm_pytorch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TensorFlow-Examples" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TensorFlow-Examples" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TensorFlow-Examples" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TensorFlow-Examples" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="TensorFlow-Examples" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TensorFlow-Examples" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TensorFlow-Examples" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.surprise_svd" />
+      <item index="1" class="java.lang.String" itemvalue="Python.song2vec" />
+      <item index="2" class="java.lang.String" itemvalue="Python.recommendSystemWithTensorflow" />
+      <item index="3" class="java.lang.String" itemvalue="Python.main" />
+      <item index="4" class="java.lang.String" itemvalue="Python.lstm_pytorch" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.lstm_pytorch" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main" />
+        <item index="2" class="java.lang.String" itemvalue="Python.song2vec" />
+        <item index="3" class="java.lang.String" itemvalue="Python.recommendSystemWithTensorflow" />
+        <item index="4" class="java.lang.String" itemvalue="Python.surprise_svd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85cb9b16-dbd2-4d00-943c-457211d0f54f" name="Default" comment="" />
+      <created>1536060825428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536060825428</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-1200" width="1920" height="1200" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37699115" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34867257" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18370607" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26106194" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3539823" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31604537" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26575342" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14943457" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31643835" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Video-study/lesson11.py</url>
+          <line>23</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Video-study/lesson11Test.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Video-study/lesson16.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MAIZI-study/NeuralNetwork/NeuralNetwork.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Video-study/assignTest.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Video-study/lesson11.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PCA_SVD/recommend_common.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PCA_SVD/recommend_common.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PCA_SVD/SVD_image.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PCA_SVD/recommend_svd.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml/book/bayes/bayes.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml/book/bayes/bayes.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml/machinelearninginaction/Ch02_knn/kNN.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml/machinelearninginaction/Ch02_knn/kNN.py</url>
+          <line>99</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml/machinelearninginaction/Ch03_tree/trees.py</url>
+          <line>108</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ml/machinelearninginaction/Ch07_adaboost/adaboost.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LSTM/lstm_pytorch.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="46" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ml/machinelearninginaction/Ch03_tree/trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml/machinelearninginaction/Ch11/apriori.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="104" column="14" lean-forward="false" selection-start-line="104" selection-start-column="5" selection-end-line="104" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml/machinelearninginaction/Ch05_logicRegres/horseColicTraining.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml/machinelearninginaction/Ch05_logicRegres/testSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-258">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml/machinelearninginaction/Ch05_logicRegres/logRegres.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="120" column="23" lean-forward="false" selection-start-line="120" selection-start-column="23" selection-end-line="120" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml/machinelearninginaction/Ch06_svm/svmMLiA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6192">
+          <caret line="345" column="44" lean-forward="false" selection-start-line="345" selection-start-column="44" selection-end-line="345" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml/machinelearninginaction/Ch07_adaboost/adaboost.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1494">
+          <caret line="83" column="44" lean-forward="false" selection-start-line="83" selection-start-column="44" selection-end-line="83" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml/machinelearninginaction/Ch09_cartTree/regTrees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml/machinelearninginaction/Ch10_kmeans/testSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml/machinelearninginaction/Ch10_kmeans/kMeans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="105" column="37" lean-forward="false" selection-start-line="105" selection-start-column="37" selection-end-line="105" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/surprise/01/song2vec.py" />
+    <entry file="file://$PROJECT_DIR$/surprise/test/surprise_svd.py" />
+    <entry file="file://$PROJECT_DIR$/ML_Projects/recommendation_system_codes/3.sequence_modelling.ipynb" />
+    <entry file="file://$PROJECT_DIR$/ML_Projects/01/song2vec.py" />
+    <entry file="file://$PROJECT_DIR$/ML_Projects/RecommendSystem/train_song2vec.py" />
+    <entry file="file://$PROJECT_DIR$/ML_Projects/RecommendSystem/movielens/ml-1m/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/RecommendSystem/movielens/ml-1m/ratings.dat">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/RecommendSystem/popular.playlist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="7335" lean-forward="false" selection-start-line="1" selection-start-column="7335" selection-end-line="1" selection-end-column="7335" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/RecommendSystem/recommendSystemWithTensorflow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2772">
+          <caret line="154" column="4" lean-forward="false" selection-start-line="154" selection-start-column="4" selection-end-line="154" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/RecommendSystem/song2vec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/utils.py" />
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/config.py" />
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/main.py" />
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/my_test/data/cmn.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/my_test/run.sh" />
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/my_test/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="87" lean-forward="false" selection-start-line="14" selection-start-column="87" selection-end-line="14" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/my_test/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="79" column="61" lean-forward="false" selection-start-line="79" selection-start-column="61" selection-end-line="79" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/my_test/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="39" column="87" lean-forward="false" selection-start-line="39" selection-start-column="87" selection-end-line="39" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/nmt-seq2seq/data/en-cn/cmn.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/nmt-seq2seq/data/en-fr/fra.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/full_code/train_test_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/full_code/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="96" column="22" lean-forward="false" selection-start-line="96" selection-start-column="22" selection-end-line="96" selection-end-column="22" />
+          <folding>
+            <element signature="e#15#29#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/nmt-seq2seq/pytorch/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/nmt-seq2seq/pytorch/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1619">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/full_code/seq2seq/vocab.pkl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/my_test/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="58" column="77" lean-forward="true" selection-start-line="58" selection-start-column="70" selection-end-line="58" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python3/3.6.2/Frameworks/Python.framework/Versions/3.6/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/full_code/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/full_code/run.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/full_code/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="83" column="41" lean-forward="false" selection-start-line="83" selection-start-column="41" selection-end-line="83" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/full_code/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="30" column="80" lean-forward="false" selection-start-line="30" selection-start-column="80" selection-end-line="30" selection-end-column="80" />
+          <folding>
+            <element signature="e#0#14#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/full_code/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-186">
+          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="e#15#29#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/nmt-seq2seq/pytorch/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-157">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#12#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/nmt-seq2seq/pytorch/run_test.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/nmt-seq2seq/pytorch/run.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/nmt-seq2seq/pytorch/seq2seq_saved_models/model.th">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2058">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/nmt-seq2seq/pytorch/seq2seq_saved_models/vocab.pkl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FM/FM/FM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-533">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LSTM/lstm_pytorch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-895">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding>
+            <element signature="e#24#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/nmt-seq2seq/pytorch/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="51" column="24" lean-forward="false" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML_Projects/Seq2Seq/full_code/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-91">
+          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
