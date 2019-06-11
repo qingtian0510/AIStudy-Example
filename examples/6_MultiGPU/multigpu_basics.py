@@ -3,7 +3,6 @@ from __future__ import print_function
 Basic Multi GPU computation example using TensorFlow library.
 
 Author: Aymeric Damien
-Project: https://github.com/aymericdamien/TensorFlow-Examples/
 '''
 
 '''
