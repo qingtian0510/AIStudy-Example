@@ -7,8 +7,9 @@
       <sourceFolder url="file://$MODULE_DIR$/ml/machinelearninginaction/Ch11" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ML_Projects/Seq2Seq/full_code" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ML_Projects/Seq2Seq/nmt-seq2seq" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tensorflow_book_study" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.6.2 (/usr/local/bin/python3.6)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.7.3 (/Library/Frameworks/Python.framework/Versions/3.7/bin/python3.7)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
