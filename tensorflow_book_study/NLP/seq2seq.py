@@ -1,8 +1,8 @@
 import tensorflow as tf
 
 # 假设输入数据已经用9.2.1小节中的方法转换成了单词编号的格式。
-SRC_TRAIN_DATA = "./train.en"        # 源语言输入文件。
-TRG_TRAIN_DATA = "./train.zh"        # 目标语言输入文件。
+SRC_TRAIN_DATA = "../../datasets/TED_data/train.txt.en"        # 源语言输入文件。
+TRG_TRAIN_DATA = "../../datasets/TED_data/train.txt.zh"        # 目标语言输入文件。
 CHECKPOINT_PATH = "./seq2seq_ckpt"   # checkpoint保存路径。
 
 HIDDEN_SIZE = 1024                   # LSTM的隐藏层规模。
